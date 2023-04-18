@@ -1,5 +1,5 @@
 # directories-for-spotdl
-A CLI tool that utilizes spotDL to download playlists into separate directories. 
+This is a bash script that makes use of spotDL to download playlists and store them in separate directories.
 
 For macOS and Linux.
 
